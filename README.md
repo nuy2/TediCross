@@ -1,3 +1,4 @@
+Damnit, no heroku support. Guess I'll sleep
 TediCross
 =========
 TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
